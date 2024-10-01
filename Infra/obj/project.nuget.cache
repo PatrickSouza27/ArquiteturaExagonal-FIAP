@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ClOVM9En0oADBwKRsqVdYivPLqCAFUi7hf5dk8gYFf28+zJYN+aHxvdx9NLMkmSDXAodsK6a216tYXd2PXwsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PatrickSouza\\Desktop\\Pos\\ArquiteturaExagonal-FIAP\\Infra\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": []
+}
