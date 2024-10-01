@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "o129iXDYa7tHZOveBeHuNpdlbL75RQHMQwWJqg7uG+WBh150LCQweJ3ioCW8T0qcOYSl9XN10EsDdK/4hB0u3A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\PatrickSouza\\Desktop\\Pos\\ArquiteturaExagonal-FIAP\\src\\adapters\\driven\\Infra\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\PatrickSouza\\Desktop\\Pos\\ArquiteturaExagonal-FIAP\\src\\adapters\\driven\\Application\\Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\PatrickSouza\\Desktop\\Pos\\ArquiteturaExagonal-FIAP\\src\\adapters\\driven\\Application\\Application.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
